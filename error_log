@@ -1,0 +1,23 @@
+[27-May-2018 07:11:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:13:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:13:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:15:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:16:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:16:55 UTC] PHP Parse error:  syntax error, unexpected 'Asd' (T_STRING), expecting ',' or ';' in /home/roird/public_html/EasyGuest/index.php on line 23
+[27-May-2018 07:17:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:17:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:18:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:19:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:20:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:23:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 22
+[27-May-2018 07:24:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:24:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 21
+[27-May-2018 07:26:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 20
+[27-May-2018 07:26:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/roird/public_html/EasyGuest/index.php on line 21
+[27-May-2018 07:29:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 21
+[27-May-2018 07:37:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roird/public_html/EasyGuest/index.php on line 21
+[27-May-2018 07:38:27 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/roird/public_html/EasyGuest/index.php on line 26
+[30-May-2018 12:53:48 UTC] PHP Warning:  preg_match(): No ending delimiter '*' found in /home/roird/public_html/EasyGuest/index.php on line 10
+[02-Jun-2018 11:45:24 UTC] PHP Fatal error:  Call to undefined method User::id() in /home/roird/public_html/EasyGuest/includes/init/session.php on line 25
+[05-Jun-2018 09:36:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/roird/public_html/EasyGuest/index.php on line 30
+[05-Jun-2018 09:36:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/roird/public_html/EasyGuest/index.php on line 30
